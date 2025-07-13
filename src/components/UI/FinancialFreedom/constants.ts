@@ -3,34 +3,38 @@ import ic_circle_stack from "../../../../public/svgs/ic_circle_stack.svg";
 import ic_arrows_left_right from "../../../../public/svgs/ic_arrows_right_left.svg";
 
 // For desktop
-export const desktopHeaderPhrase = ["Your Financial Freedom,", "Your Way"];
+export const desktopHeaderPhrase = [
+  "Powering Growth,",
+  "Digitally & Creatively",
+];
 export const desktopParagraphPhrase = [
-  "We believe that managing your finances should be effortless and cost-effective.",
-  "That's why we offer you the freedom you deserve.",
+  "At MediaForge Solutions, we blend creativity with data-driven strategy",
+  "to help brands stand out, engage audiences, and grow fast in the digital age.",
 ];
 export const desktopBriefNotePhrase = [
-  "Smart investments,",
-  "secure payments, and",
-  "expert guidance, all in",
-  "one place.",
+  "Invest smart,",
+  "pay instantly,",
+  "track everything,",
+  "with zero friction.",
 ];
 
 // For mobile
-export const mobileHeaderPhrase = ["Your Financial", "Freedom, Your Way"];
+export const mobileHeaderPhrase = ["Empower Your", "Financial Future"];
 export const mobileParagraphPhrase = [
-  "We believe that managing your finances should be",
-  "effortless and cost-effective. That's why we offer",
-  " you the freedom you deserve.",
+  "Confidently manage your money",
+  "with tools built for control,",
+  "clarity, and long-term success.",
 ];
 
 export const mobileBriefNotePhrase = [
-  "Smart",
-  " investments,",
-  "secure",
-  " payments,",
-  "and expert",
-  "guidance, all",
-  "in one place.",
+  "Invest",
+  " smart,",
+  "pay",
+  " instantly,",
+  "track",
+  " everything,",
+  "with zero",
+  " friction.",
 ];
 
 export const edges = [
