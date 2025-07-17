@@ -1,4 +1,5 @@
 import {
+  ContactForm,
   FAQ,
   Featured,
   FinancialFuture,
@@ -20,6 +21,7 @@ export default function Home() {
       <IntroSection />
       <JoinSection />
       <FAQ />
+      <ContactForm/>
     </main>
   );
 }

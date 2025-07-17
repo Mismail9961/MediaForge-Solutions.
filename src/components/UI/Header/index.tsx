@@ -24,7 +24,7 @@ const Header = () => {
     <Wrapper>
       <Inner>
         <LogoContainer>
-          <h1>MediaForge Solutions.</h1>
+          <a href="/"><h1>MediaForge Solutions.</h1></a>
           <BurgerMenu onClick={() => setIsOpen(!isOpen)}>
             <motion.div
               variants={menu}
